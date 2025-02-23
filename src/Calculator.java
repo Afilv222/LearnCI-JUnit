@@ -10,6 +10,7 @@ public class Calculator {
 	 * @param b
 	 * @return the result of the action performed on and b.
 	 * @throws ArithmeticException is b is 0;
+  	 * tests	
 	 */
 	public double action(double a, double b) {
 		double result = 0;
